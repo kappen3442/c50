@@ -1,0 +1,21 @@
+h1{
+    border:solid
+}
+div{
+    border:solid
+}
+.blue{
+    background-color: rgb(17, 184, 17);
+}
+.orange{
+    display:flex;
+    justify-content: flex-end;
+
+}
+
+.green{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    
+}
